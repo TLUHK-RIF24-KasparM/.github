@@ -1,6 +1,6 @@
 # Kaspar Mahla
 
-![ipilt](c:\Users\Lenovo\Downloads\pilt.jfif)
+![ipilt]()
 ---
 ## Miks ma tulin õppima Haapsalu kolledžisse?
   - Elan ja töötan Haapsalu, mis teeb logistika hästi mugavaks.
