@@ -1,11 +1,8 @@
-## Kaspar Mahla
+# Kaspar Mahla
 
-[img]
+![img]
 ---
-###Tekst
-###Tekst
-###Tekst
-
+## Miks ma tulin õppima Haapsalu kolledžisse  
 <!--
 
 **Here are some ideas to get you started:**
