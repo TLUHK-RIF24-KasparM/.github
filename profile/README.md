@@ -2,7 +2,10 @@
 
 ![img]
 ---
-## Miks ma tulin õppima Haapsalu kolledžisse  
+## Miks ma tulin õppima Haapsalu kolledžisse?
+  -
+  -
+  -
 <!--
 
 **Here are some ideas to get you started:**
