@@ -1,6 +1,6 @@
 # Kaspar Mahla
 
-![img]
+![imgage](file)
 ---
 ## Miks ma tulin õppima Haapsalu kolledžisse?
   - Elan ja töötan Haapsalu, mis teeb logistika hästi mugavaks.
